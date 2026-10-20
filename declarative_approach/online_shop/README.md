@@ -4,5 +4,10 @@
 <img width="1495" height="713" alt="image" src="https://github.com/user-attachments/assets/267daddd-8075-4d55-8d87-ca150e3c1fad" />
 <img width="1910" height="956" alt="image" src="https://github.com/user-attachments/assets/f773f43f-d9ef-4bf5-88c2-0654e4022b32" />
 
+GitOps
+
+<img width="1888" height="918" alt="image" src="https://github.com/user-attachments/assets/7d44ec19-29f7-43ff-b928-e30953a8e333" />
+
+
 
 
